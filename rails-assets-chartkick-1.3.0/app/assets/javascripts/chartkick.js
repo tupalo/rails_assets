@@ -1,0 +1,1 @@
+//= require chartkick/chartkick.js

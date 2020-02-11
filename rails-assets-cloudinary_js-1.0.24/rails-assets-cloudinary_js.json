@@ -1,0 +1,46 @@
+{
+  "name": "rails-assets-cloudinary_js",
+  "downloads": null,
+  "version": "1.0.24",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "Cloudinary streamlines your web application\u{2019}s image manipulation needs. Cloudinary's cloud-based servers automate image uploading, resizing, cropping, optimizing, sprite generation and more. Cloudinary's jQuery plugin allows direct uploading from the browser to the cloud and dynamic cloud-based image transformations and effects.",
+  
+  "licenses": "http://www.opensource.org/licenses/MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://cloudinary.com/documentation/jquery_integration",
+  "gem_uri": null,
+  "homepage_uri": "http://cloudinary.com/documentation/jquery_integration",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://cloudinary.com/documentation/jquery_integration",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-jquery",
+      "requirements": ">= 1.6"
+    },
+    
+    
+    
+    {
+      "name": "rails-assets-blueimp-file-upload",
+      "requirements": ">= 7.2.1"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
